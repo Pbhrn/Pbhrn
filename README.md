@@ -3,7 +3,7 @@
 ### 🚀 Computer Science Student @Kasetsart University (Junior Year)
 Dedicated to the art of seamless interaction. I explore the synergy between data-driven Image Processing and user-centric Web Development to build digital solutions that feel as good as they look. Currently bridging the gap between code and experience at Kasetsart University.
 
-### 🛠️ Tech Stack & Tools Right Now
+### 🛠️ Tech Stack & Tools (Right Now)
 
 - **Frontend:** ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 - **Technical/Analysis:** ![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white)
