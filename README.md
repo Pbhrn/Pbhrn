@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bharun Thunthanachai</h1>
 
 ### 🚀 Computer Science Student @Kasetsart University (Junior Year)
-"Dedicated to the art of seamless interaction. I explore the synergy between data-driven Image Processing and user-centric Web Development to build digital solutions that feel as good as they look. Currently bridging the gap between code and experience at Kasetsart University.", and **User Experience**.
+"Dedicated to the art of seamless interaction. I explore the synergy between data-driven Image Processing and user-centric Web Development to build digital solutions that feel as good as they look. Currently bridging the gap between code and experience at Kasetsart University.
 
 ### 🛠️ Tech Stack & Tools
 
